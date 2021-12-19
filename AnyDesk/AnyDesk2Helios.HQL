@@ -1,0 +1,1 @@
+UPDATE dbo.TabURL SET [URL] = N'https://download.anydesk.com/AnyDesk.exe' WHERE Druh = 41;
